@@ -181,8 +181,6 @@ figcaption {
   border-radius: 12px;
   margin: auto;
   display: flex;
-
-
 }
 
 .banner-text {
@@ -210,6 +208,5 @@ footer {
   margin: auto;
   text-align: center;
   line-height: 100px;
-
 }
 
